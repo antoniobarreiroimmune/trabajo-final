@@ -1,0 +1,15 @@
+.cabecera{display: flex;align-items: center;}
+.carteles{display: flex; align-items: center;width: 90%;margin: 5%;}
+img{width: 90%;}
+.recomendacion{display:flex; justify-content: center;  }
+.redes{display: flex;align-items: center;justify-content: center;margin: 0,5%;}
+.pie{display: flex;justify-content: center; width: 100%; }
+h1{margin-left: 10%;}
+#boton-sup{text-decoration: none;color: black; font-weight: bold; margin: 2%;}
+.logo{display:flex; justify-content: center; align-items: center;}
+#logo{width: 5%;}
+p{text-align: center;}
+#logo-1{width: 10%;}
+
+
+li{text-decoration: none;}
