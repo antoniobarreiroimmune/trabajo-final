@@ -2,15 +2,23 @@
     margin: 0;
 }
 
+header a {
+    color: black;
+}
 
+header ul li {
+    margin: 5px;
+}
 
 .campaing {
     display: flex;
+    align-items: center;
+
     background-color: rgba(68, 150, 65, 255);
     height: 400px;
-    justify-content: center;
-    align-items: center;
+
 }
+
 
 .btn-history {
     background-color: rgba(125, 197, 119, 255);
@@ -121,16 +129,12 @@ section.contacto {
     background-color: rgba(56, 56, 56, 255);
 }
 
-.footc {
-
-    background-color: rgba(234, 235, 237, 255);
-
-
-
-
+.contact-icon {
+    background-color: transparent;
+    height: auto;
+    width: 25px;
 }
 
-.footcon {
-    margin: 20px;
-    background-color: aquas;
+footer a {
+    color: black;
 }
