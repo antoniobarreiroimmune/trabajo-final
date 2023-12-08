@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+}
+
+
+
+.campaing {
+    display: flex;
+    background-color: rgba(68, 150, 65, 255);
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-history {
+    background-color: rgba(125, 197, 119, 255);
+    color: white;
+    border-color: white;
+    border-radius: 30px;
+    width: 200px;
+    height: 50px;
+}
+
+.btn-history:hover {
+    background-color: white;
+    color: rgba(125, 197, 119, 255);
+    border-color: rgba(125, 197, 119, 255);
+}
+
+
+.btn-socio {
+    background-color: white;
+    color: rgba(125, 197, 119, 255);
+    border-color: rgba(125, 197, 119, 255);
+    border-radius: 30px;
+    width: 200px;
+    height: 50px
+}
+
+.btn-socio:hover {
+    background-color: rgba(125, 197, 119, 255);
+    color: white;
+    border-color: white;
+}
+
+.btn-carousel {
+    background-color: transparent;
+    border-radius: 5px;
+    border-color: white;
+    color: white;
+}
+
+.headR {
+    padding-right: 100px;
+}
+
+.hsbtn {
+    width: 100px;
+    height: auto;
+}
+
+
+
+.imgcart:hover {
+    transform: scale(1.01)
+}
+
+
+section.palmares {
+    background-color: rgba(234, 235, 237, 255);
+}
+
+section.patrocinadores {
+    background-color: rgba(14, 76, 149, 255);
+}
+
+section.actualidad {
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+img.logow {
+    width: 150px;
+    height: auto;
+    margin: 10px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.goldf {
+    background-color: rgba(234, 235, 237, 255);
+    ;
+}
+
+section.gold {
+
+    background-color: rgba(234, 235, 237, 255);
+
+
+}
+
+.gold-m {
+    margin-left: 30%;
+    margin-right: 20%;
+}
+
+img.gold {
+    width: auto;
+    height: auto;
+    margin: 15px;
+}
+
+
+
+
+
+
+section.contacto {
+    background-color: rgba(56, 56, 56, 255);
+}
+
+.footc {
+
+    background-color: rgba(234, 235, 237, 255);
+
+
+
+
+}
+
+.footcon {
+    margin: 20px;
+    background-color: aquas;
+}
